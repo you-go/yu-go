@@ -1,0 +1,5 @@
+﻿  ActionTest.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\nwuser.da\documents\授業2\進級制作②\第３クール\zemi_project\actiontest.cpp(495): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Zemi_Project.vcxproj -> C:\Users\nwuser.DA\Documents\授業2\進級制作②\第３クール\Zemi_Project\Debug\Zemi_Project.exe
+  Zemi_Project.vcxproj -> C:\Users\nwuser.DA\Documents\授業2\進級制作②\第３クール\Zemi_Project\Debug\Zemi_Project.pdb (Full PDB)
