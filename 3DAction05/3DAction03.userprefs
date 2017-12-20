@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\EnemyControll.cs">
+    <Files>
+      <File FileName="Assets\Script\UnityChanControlScriptWithRgidBody.cs" Line="167" Column="5" />
+      <File FileName="Assets\Script\GameManager.cs" Line="124" Column="22" />
+      <File FileName="Assets\Script\CameraControll.cs" Line="40" Column="15" />
+      <File FileName="Assets\Script\EnemyAreaCheck.cs" Line="14" Column="3" />
+      <File FileName="Assets\Script\EnemyControll.cs" Line="126" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
